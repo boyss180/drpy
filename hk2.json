@@ -5,7 +5,7 @@
 //{"key":"Cokemv","name":"Coke 👉選 [海外...] 看","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 //{"key":"csp_xBPQ_吼吼","name":"HoHo 👉選 [海外...] 看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/hoho.json"},
 
-{"key": "dr_小宝影院","name": "小寶myed (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院myed_new.js"},
+//{"key": "dr_小宝影院","name": "小寶myed (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院myed_new.js"},
 {"key": "dr_小宝影院ed","name": "小寶-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院_new.js"},
 //{"key": "dr_cokemv","name": "Coke (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/cokemv2.js"},
 {"key": "dr_cokemv_new","name": "Coke-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/cokemv_new.js"},
