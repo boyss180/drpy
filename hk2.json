@@ -18,6 +18,8 @@
 //{"key": "dr_海外看","name": "海外看 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/海外看影院2.js"},
 {"key": "dr_海外看_new","name": "海外看-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/海外看_new.js"},
 {"key": "dr_唐人街影视","name": "唐人街-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/唐人街影视_new.js"},
+{"key": "dr_AB影院_new","name": "AB影院-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/AB影院_new.js"},
+{"key": "dr_KUBO影视_new","name": "KUBO影視-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/KUBO影视_new.js"},
 //{"key": "dr_鸭奈飞_new","name": "鴨奈飛-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/鸭奈飞_new.js"},
 {"key":"nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api": "https://boyss180.github.io/drpy/js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://boyss180.github.io/drpy/js/88看球2.js"},
