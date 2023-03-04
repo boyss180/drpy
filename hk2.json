@@ -1,9 +1,9 @@
 {
   "sites": [
-{"key":"Xiaoh","name":"小 寶 (Dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
+//{"key":"Xiaoh","name":"小 寶 (Dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 //{"key":"csp_xBPQ_COKEMV","name":"Coke (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/COKEMV.json"},
-{"key":"Cokemv","name":"Coke (Dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
-{"key":"csp_xBPQ_吼吼","name":"HoHo (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/hoho.json"},
+//{"key":"Cokemv","name":"Coke (Dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
+//{"key":"csp_xBPQ_吼吼","name":"HoHo (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/hoho.json"},
 
 //{"key": "dr_小宝影院","name": "小寶myed (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院myed_new.js"},
 {"key": "dr_小宝影院ed","name": "小寶-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院_new.js"},
