@@ -5,9 +5,6 @@
 //{"key":"Cokemv","name":"Coke (Dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 //{"key":"csp_xBPQ_吼吼","name":"HoHo (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/hoho.json"},
 
-{"key":"csp_xBPQ_瓜子TV","name":"瓜子TV (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/瓜子TV_test.json"},
-{"key": "dr_瓜子TV","name": "瓜子TV (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/瓜子TV_test.js"},
-//{"key": "dr_小宝影院","name": "小寶myed (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院myed_new.js"},
 {"key": "dr_小宝影院ed","name": "小寶-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院_new.js"},
 //{"key": "dr_cokemv","name": "Coke (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/cokemv2.js"},
 {"key": "dr_cokemv_new","name": "Coke-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/cokemv_new.js"},
