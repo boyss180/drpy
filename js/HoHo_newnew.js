@@ -2,7 +2,8 @@ muban.mxone5.二级.desc = '.video-info-items:eq(3)&&Text;;;.video-info-actor:eq
 var rule={
     title:'吼吼[飞]',
     模板:'mxone5',
-    host:'https://www.hoho.tv',
+    // host:'https://www.hoho.tv',
+    host:'https://hoho.tv',
     // url:'/vod/show/fyclass/page/fypage.html',
     url:'/vod/show/fyfilter.html',
     filterable:1,//是否启用分类筛选,
@@ -28,6 +29,6 @@ var rule={
     lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
     推荐: '*',
     double: false, // 推荐内容是否双层定位
-    一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-caption&&span:eq(0)&&Text;a&&href',
+    一级: '.module-items .module-item;.module-item-title&&Text;img&&data-src;.module-item-caption&&span:eq(0)&&Text;a&&href',
     搜索: '.module-items .module-search-item;.lazyload&&alt;*;.video-serial&&Text;.video-serial&&href',
 }
